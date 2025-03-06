@@ -1,0 +1,20 @@
+{
+    "name": "novaphp/config",
+    "description": "NovaPhp Config",
+    "version": "1.0.0",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "NovaPhp\\Config\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yusuf Emir USTAOĞLU",
+            "email": "emiru893@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
